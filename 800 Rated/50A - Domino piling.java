@@ -1,5 +1,5 @@
 /**
-A. Domino piling
+50A. Domino piling
 time limit per test2 seconds
 memory limit per test256 megabytes
 inputstandard input
