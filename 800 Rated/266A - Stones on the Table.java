@@ -1,5 +1,5 @@
 /***
-A. Stones on the Table
+266A. Stones on the Table
 time limit per test2 seconds
 memory limit per test256 megabytes
 inputstandard input
