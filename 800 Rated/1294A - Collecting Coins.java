@@ -1,5 +1,5 @@
 /***
-A. Collecting Coins
+1294A. Collecting Coins
 time limit per test2 seconds
 memory limit per test256 megabytes
 inputstandard input
